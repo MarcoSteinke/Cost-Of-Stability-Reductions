@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Steinke
     given-names: Marco
-    orcid: -
+    orcid: not released
 title: "Implementations of the reductions from Sigma2-SAT to m-ω-VCS and ω-VCS"
 version: 2.0.4
-doi: -
+doi: not released
 date-released: 2022-07-14
