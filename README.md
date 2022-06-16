@@ -14,6 +14,9 @@ This repository contains implementations of polynomial-time many-one reductions 
 
 4️⃣ Always run `ALL` code blocks inside of the jupyter notebook, since later code blocks override previous ones for educational purposes.
 
+## Mentions:
+
+This work is based on publications in the area of Complexity Theory, especially Stability of Graphs, studied and published by Frei, Hermaspaandra, Rothe and Weishaupt.
 
 
 ## License:
