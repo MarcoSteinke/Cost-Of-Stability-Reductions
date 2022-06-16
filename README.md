@@ -18,6 +18,18 @@ This repository contains implementations of polynomial-time many-one reductions 
 
 This work is based on publications in the area of Complexity Theory, especially Stability of Graphs, studied and published by Frei, Hermaspaandra, Rothe and Weishaupt.
 
+## Sources:
+
+* [1] Fabian Frei, Edith Hemaspaandra, and Jörg Rothe. Complexity of stability. CoRR,
+abs/1910.00305, 2019.
+
+* [2] Richard M. Karp. Reducibility among Combinatorial Problems, pages 85–103. Springer
+US, Boston, MA, 1972.
+
+* [3] J. Rothe and R. Weishaupt. Cost of stability. Manuscript, 2022.
+
+* [4] R. Weishaupt. Stability of graphs and its costs. Master’s thesis, Heinrich-Heine-
+Universit#t Düsseldorf, July 2021.
 
 ## License:
 
