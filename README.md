@@ -6,9 +6,13 @@ This repository contains implementations of reductions ($\leq^P_m$) from Sigma_2
 
 1️⃣ Clone this repository using `git clone`.
 
-2️⃣ Start `jupyter` or any code editor/IDE which is capable of rendering `.ipynb` files.
+2️⃣ Navigate into the cloned repository and run `pip install -r requirements.txt` to install all dependencies
 
-3️⃣ Always run `ALL` code blocks inside of the jupyter notebook, since later code blocks override previous ones for educational purposes.
+3️⃣ Start `jupyter` or any code editor/IDE which is capable of rendering `.ipynb` files.
+
+4️⃣ Always run `ALL` code blocks inside of the jupyter notebook, since later code blocks override previous ones for educational purposes.
+
+
 
 ## License:
 
