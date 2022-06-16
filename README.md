@@ -12,7 +12,7 @@ This repository contains implementations of polynomial-time many-one reductions 
 
 3️⃣ Start `jupyter` or any code editor/IDE which is capable of rendering `.ipynb` files.
 
-4️⃣ Always run `ALL` code blocks inside of the jupyter notebook, since later code blocks override previous ones for educational purposes.
+4️⃣ Always run `ALL` code blocks inside of the jupyter notebook after startup, since later code blocks override previous ones for educational purposes.
 
 ## Mentions:
 
