@@ -16,7 +16,7 @@ This repository contains implementations of polynomial-time many-one reductions 
 
 ## Mentions:
 
-This work is based on publications in the area of Complexity Theory, especially Stability of Graphs, studied and published by Frei, Hermaspaandra, Rothe and Weishaupt.
+This work is based on publications in the area of Complexity Theory, especially Stability of Graphs, studied and published by Fabian Frei, Edith Hemaspaandra, Jörg Rothe and Robin Weishaupt.
 
 ## Sources:
 
