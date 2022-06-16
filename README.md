@@ -1,4 +1,4 @@
-# Reductions-from-Sigma2-SAT-to-m-ω-vertex-cost-of-stability-and ω-vertex-cost-of-stability
+# Reductions from Sigma2 SAT to m-ω-vertex-cost-of-stability and ω-vertex-cost-of-stability
 
 ## Introduction:
 
