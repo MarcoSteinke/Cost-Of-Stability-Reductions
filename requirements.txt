@@ -1,0 +1,4 @@
+colorama
+networkx
+ttg
+copy
